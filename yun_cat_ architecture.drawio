@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-18T13:39:17.550Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="df75oMmAD9rI3YgBbOb5" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-18T14:03:04.327Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="siCX25qP05Y8ZY-B468a" version="12.9.12" type="github">
   <diagram id="3ChKobuoZKqZvx7yNvab" name="Page-1">
     <mxGraphModel dx="1240" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -316,8 +316,8 @@
             <mxPoint x="30" y="1232.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="30" y="450" />
-              <mxPoint x="1230" y="450" />
-              <mxPoint x="1230" y="1230" />
+              <mxPoint x="1630" y="450" />
+              <mxPoint x="1630" y="1230" />
               <mxPoint x="350" y="1232.5" />
             </Array>
           </mxGeometry>
@@ -339,6 +339,33 @@
         </mxCell>
         <mxCell id="a0jC55dXt6eBEB4kqR6y-85" value="数据处理CDP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-88" value="&lt;div&gt;10.53.193.149&lt;/div&gt;&lt;div&gt;北京大区天津滨海&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="550" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-89" value="&lt;div&gt;9.67.10.227（电）&lt;/div&gt;&lt;div&gt;9.67.11.167（腾）&lt;/div&gt;&lt;div&gt;9.67.26.224（联）&lt;/div&gt;&lt;div&gt;9.67.32.213（移）&lt;/div&gt;&lt;div&gt;北京一区天津滨海&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="650" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-90" value="&lt;div&gt;9.89.128.129（移）&lt;/div&gt;&lt;div&gt;9.89.128.71（腾）&lt;/div&gt;&lt;div&gt;9.89.129.122（电）&lt;/div&gt;&lt;div&gt;9.89.129.65（联）&lt;/div&gt;&lt;div&gt;北京三区酒仙桥&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="550" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-91" value="云监控拨测1台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="522" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-92" value="直播拨测8台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="520" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-93" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1416" y="542" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-94" value="&lt;div&gt;100.93.203.136（电）&lt;/div&gt;&lt;div&gt;100.98.75.167（移）&lt;/div&gt;&lt;div&gt;100.93.203.222（联）&lt;/div&gt;&lt;div&gt;重庆&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="770" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-95" value="&lt;div&gt;9.151.96.131（腾）&lt;/div&gt;&lt;div&gt;9.151.96.206（腾）&lt;/div&gt;&lt;div&gt;9.151.96.231（腾）&lt;/div&gt;&lt;div&gt;9.151.96.232（腾）&lt;/div&gt;&lt;div&gt;江苏&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="892.5" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-96" value="&lt;div&gt;100.99.31.27（移）&lt;/div&gt;&lt;div&gt;100.99.31.59（移）&lt;/div&gt;&lt;div&gt;100.99.31.36（电）&lt;/div&gt;&lt;div&gt;100.99.31.39（联）&lt;/div&gt;&lt;div&gt;成都&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1005" width="130" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

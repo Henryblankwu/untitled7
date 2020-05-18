@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-18T14:14:57.965Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="XIdZJmz6iYFvOtqQHMgX" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-18T14:15:35.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="SmTkG8hv1nRO3teRTLT5" version="12.9.12" type="github">
   <diagram id="3ChKobuoZKqZvx7yNvab" name="Page-1">
     <mxGraphModel dx="1240" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,7 +197,7 @@
         <mxCell id="a0jC55dXt6eBEB4kqR6y-57" value="&lt;div&gt;10.116.104.121（腾）&lt;/div&gt;&lt;div&gt;10.116.108.102（腾）&lt;/div&gt;&lt;div&gt;10.116.60.118（other）&lt;/div&gt;&lt;div&gt;10.116.60.119(other)&lt;/div&gt;&lt;div&gt;加拿大巴里(需裁撤替换)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="109" y="530" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="a0jC55dXt6eBEB4kqR6y-58" value="&lt;div&gt;100.102.12.182&lt;/div&gt;&lt;div&gt;100.102.12.183&lt;/div&gt;&lt;div&gt;9.65.33.236（sen:腾）&lt;br&gt;&lt;/div&gt;&lt;div&gt;172.16.10.14（腾）&lt;/div&gt;&lt;div&gt;172.16.10.13(腾)&lt;/div&gt;&lt;div&gt;加州硅谷&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-58" value="&lt;div&gt;100.102.12.182&lt;/div&gt;&lt;div&gt;100.102.12.183&lt;/div&gt;&lt;div&gt;9.65.33.236（直播:腾）&lt;br&gt;&lt;/div&gt;&lt;div&gt;172.16.10.14（腾）&lt;/div&gt;&lt;div&gt;172.16.10.13(腾)&lt;/div&gt;&lt;div&gt;加州硅谷&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="114" y="650" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="a0jC55dXt6eBEB4kqR6y-59" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;100.120.26.47（腾）&lt;/div&gt;&lt;div&gt;德国法兰克福&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -221,10 +221,10 @@
         <mxCell id="a0jC55dXt6eBEB4kqR6y-66" value="&lt;div&gt;100.125.39.139&lt;/div&gt;&lt;div&gt;新加坡一区&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="817.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a0jC55dXt6eBEB4kqR6y-67" value="&lt;div&gt;9.74.139.156（sen）&lt;/div&gt;&lt;div&gt;美国佛吉尼亚&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-67" value="&lt;div&gt;9.74.139.156（直播）&lt;/div&gt;&lt;div&gt;美国佛吉尼亚&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="112" y="745" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a0jC55dXt6eBEB4kqR6y-68" value="&lt;div&gt;9.131.134.83(jack:other)&lt;/div&gt;&lt;div&gt;9.131.134.247(jack:other)&lt;/div&gt;&lt;div&gt;10.145.0.252（电）&lt;/div&gt;&lt;div&gt;10.145.1.7（电）&lt;/div&gt;&lt;div&gt;10.145.14.72（腾）&lt;/div&gt;&lt;div&gt;10.243.144.136（other）&lt;/div&gt;&lt;div&gt;香港葵涌（需裁撤替换）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-68" value="&lt;div&gt;9.131.134.83(other)&lt;/div&gt;&lt;div&gt;9.131.134.247(other)&lt;/div&gt;&lt;div&gt;10.145.0.252（电）&lt;/div&gt;&lt;div&gt;10.145.1.7（电）&lt;/div&gt;&lt;div&gt;10.145.14.72（腾）&lt;/div&gt;&lt;div&gt;10.243.144.136（other）&lt;/div&gt;&lt;div&gt;香港葵涌（需裁撤替换）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="114" y="877.5" width="140" height="155" as="geometry" />
         </mxCell>
         <mxCell id="a0jC55dXt6eBEB4kqR6y-69" value="&lt;div&gt;10.145.83.224（直播:腾）&lt;br&gt;&lt;/div&gt;&lt;div&gt;香港葵涌一区&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">

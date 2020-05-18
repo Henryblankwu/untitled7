@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-18T13:07:36.944Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="uhj2-jwQr_EtyucL6ZPq" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-18T13:25:04.619Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="44_l1z-tzDDRyq-oyX-A" version="12.9.12" type="github">
   <diagram id="3ChKobuoZKqZvx7yNvab" name="Page-1">
     <mxGraphModel dx="1240" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,6 +202,36 @@
         </mxCell>
         <mxCell id="a0jC55dXt6eBEB4kqR6y-57" value="&lt;div&gt;10.116.104.121（腾）&lt;/div&gt;&lt;div&gt;10.116.108.102（腾）&lt;/div&gt;&lt;div&gt;10.116.60.118（other）&lt;/div&gt;&lt;div&gt;10.116.60.119(other)&lt;/div&gt;&lt;div&gt;加拿大巴里&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="500" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-58" value="&lt;div&gt;100.102.12.182&lt;/div&gt;&lt;div&gt;100.102.12.183&lt;/div&gt;&lt;div&gt;9.65.33.236（sen:腾）&lt;br&gt;&lt;/div&gt;&lt;div&gt;172.16.10.14（腾）&lt;/div&gt;&lt;div&gt;172.16.10.13(腾)&lt;/div&gt;&lt;div&gt;加州硅谷&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="640" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-59" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;100.120.26.47（腾）&lt;/div&gt;&lt;div&gt;德国法兰克福&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="850" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-60" value="&lt;div&gt;172.28.0.13（腾）&lt;/div&gt;&lt;div&gt;172.28.0.9（腾）&lt;/div&gt;&lt;div&gt;9.70.0.69（sen:腾）&lt;/div&gt;&lt;div&gt;德国法兰克福一区&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="910" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-61" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9.84.2.71（sen:腾）&lt;/div&gt;&lt;div&gt;莫斯科&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1020" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-62" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9.76.131.45（sen:腾）&lt;/div&gt;&lt;div&gt;印度孟买&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1080" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-64" value="&lt;div&gt;9.75.2.124&lt;/div&gt;&lt;div&gt;美国圣克拉拉&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="790" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-65" value="&lt;div&gt;100.78.64.128&lt;/div&gt;&lt;div&gt;100.78.64.126&lt;/div&gt;&lt;div&gt;100.78.64.127&lt;/div&gt;&lt;div&gt;新加坡&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="630" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-66" value="&lt;div&gt;100.125.39.139&lt;/div&gt;&lt;div&gt;新加坡一区&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="720" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-67" value="&lt;div&gt;9.74.139.156（sen）&lt;/div&gt;&lt;div&gt;美国佛吉尼亚&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="740" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-68" value="&lt;div&gt;9.131.134.83&lt;/div&gt;&lt;div&gt;9.131.134.247&lt;/div&gt;&lt;div&gt;10.145.0.252&lt;/div&gt;&lt;div&gt;10.145.1.7&lt;/div&gt;&lt;div&gt;10.145.14.72&lt;/div&gt;&lt;div&gt;10.243.144.136&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="800" width="130" height="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

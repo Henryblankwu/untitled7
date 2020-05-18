@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-18T12:02:36.551Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="blfyMHJ0YjwUpVvRteyv" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-18T12:16:42.248Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="2Le2_mEYN7hjHDS2lVIw" version="12.9.12" type="github">
   <diagram id="3ChKobuoZKqZvx7yNvab" name="Page-1">
     <mxGraphModel dx="1240" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="a0jC55dXt6eBEB4kqR6y-9" value="10.248.112.128&lt;br&gt;天津联通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="304" y="620" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="a0jC55dXt6eBEB4kqR6y-10" value="10.248.112.13&lt;br&gt;10.248.112.121&lt;br&gt;天津移动&lt;br&gt;9.6.167.42（待）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-10" value="10.248.112.13&lt;br&gt;10.248.112.121&lt;br&gt;9.6.167.42（待）&lt;br&gt;天津移动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="520" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="a0jC55dXt6eBEB4kqR6y-11" value="&lt;div&gt;10.242.6.79&lt;/div&gt;&lt;div&gt;10.58.90.115&lt;/div&gt;&lt;div&gt;10.236.3.104&lt;/div&gt;&lt;div&gt;10.236.3.82&lt;/div&gt;&lt;div&gt;上海移动&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -66,6 +66,15 @@
         </mxCell>
         <mxCell id="a0jC55dXt6eBEB4kqR6y-18" value="&lt;div&gt;9.114.5.18&lt;/div&gt;&lt;div&gt;9.114.4.190&lt;/div&gt;&lt;div&gt;10.236.3.238&lt;/div&gt;&lt;div&gt;上海联通&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="620" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-19" value="&lt;div&gt;9.89.28.218（电）&lt;/div&gt;&lt;div&gt;9.89.28.227（联）&lt;/div&gt;&lt;div&gt;9.89.29.175（腾）&lt;/div&gt;&lt;div&gt;9.89.29.225（移）&lt;/div&gt;&lt;div&gt;上海一区&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="520" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-20" value="&lt;div&gt;9.142.168.125&lt;/div&gt;&lt;div&gt;9.142.168.137&lt;/div&gt;&lt;div&gt;9.142.168.63&lt;/div&gt;&lt;div&gt;9.142.168.96&lt;/div&gt;&lt;div&gt;上海二区（腾）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="520" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-21" value="4核8G" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="945" y="490" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

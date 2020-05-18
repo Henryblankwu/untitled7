@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-18T13:37:17.888Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="vNdTcdYMgCuKDfc6sT0P" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-18T13:39:17.550Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="df75oMmAD9rI3YgBbOb5" version="12.9.12" type="github">
   <diagram id="3ChKobuoZKqZvx7yNvab" name="Page-1">
     <mxGraphModel dx="1240" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,10 +145,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a0jC55dXt6eBEB4kqR6y-41" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.336;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a0jC55dXt6eBEB4kqR6y-5" target="a0jC55dXt6eBEB4kqR6y-38">
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-41" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="a0jC55dXt6eBEB4kqR6y-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="440" as="sourcePoint" />
-            <mxPoint x="600" y="390" as="targetPoint" />
+            <mxPoint x="670" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a0jC55dXt6eBEB4kqR6y-42" value="16台，2台无信息，3台腾云" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -321,6 +321,24 @@
               <mxPoint x="350" y="1232.5" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a0jC55dXt6eBEB4kqR6y-83" target="a0jC55dXt6eBEB4kqR6y-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-83" value="数据收集NWS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-84" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="a0jC55dXt6eBEB4kqR6y-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="450" as="sourcePoint" />
+            <mxPoint x="660" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a0jC55dXt6eBEB4kqR6y-85" target="a0jC55dXt6eBEB4kqR6y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a0jC55dXt6eBEB4kqR6y-85" value="数据处理CDP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="290" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-18T15:01:22.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="nO0I-JUDcDSUSIVONqhM" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-19T07:54:57.950Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="Yq-urJoNqnZqynhi-o9w" version="12.9.12" type="github">
   <diagram id="3ChKobuoZKqZvx7yNvab" name="Page-1">
-    <mxGraphModel dx="1240" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="679" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -416,22 +416,37 @@
           <mxGeometry x="1105" y="767.5" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="czo80sEgHHQKnNgIDB-t-14" value="&lt;span&gt;ZooKeeper集群（正式环境环境）5台&lt;/span&gt;&lt;br&gt;&lt;div&gt;100.121.172.38&lt;/div&gt;&lt;div&gt;100.125.6.75&lt;/div&gt;&lt;div&gt;100.121.176.61&lt;/div&gt;&lt;div&gt;100.125.0.56&lt;/div&gt;&lt;div&gt;10.59.187.243&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="190" width="120" height="130" as="geometry" />
+          <mxGeometry x="900" y="140" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="czo80sEgHHQKnNgIDB-t-15" value="&lt;span&gt;ZooKeeper集群（测试环境）一台&lt;/span&gt;&lt;br&gt;&lt;span&gt;10.49.88.90&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="225" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="czo80sEgHHQKnNgIDB-t-16" value="&lt;div&gt;storm集群（备选节点）&lt;/div&gt;&lt;div&gt;10.175.125.32&lt;/div&gt;&lt;div&gt;10.175.127.210&lt;/div&gt;&lt;div&gt;10.175.125.163&lt;/div&gt;&lt;div&gt;10.175.125.149&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="60" width="140" height="100" as="geometry" />
+          <mxGeometry x="1175" y="40" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="czo80sEgHHQKnNgIDB-t-17" value="&lt;div&gt;storm集群（正式环境）&lt;/div&gt;&lt;div&gt;&lt;div&gt;9.71.226.171&lt;/div&gt;&lt;div&gt;9.71.227.174&lt;/div&gt;&lt;div&gt;9.71.226.100&lt;/div&gt;&lt;div&gt;9.71.227.74&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="60" width="140" height="100" as="geometry" />
+        <mxCell id="czo80sEgHHQKnNgIDB-t-17" value="&lt;div&gt;storm集群（Suprvisor）（正式环境）&lt;/div&gt;&lt;div&gt;&lt;div&gt;9.71.226.171&lt;/div&gt;&lt;div&gt;9.71.227.174&lt;/div&gt;&lt;div&gt;9.71.226.100&lt;/div&gt;&lt;div&gt;9.71.227.74&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="150" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="czo80sEgHHQKnNgIDB-t-18" value="数据层开发环境&lt;br&gt;10.175.134.142" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="125" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="czo80sEgHHQKnNgIDB-t-19" value="qcm_cgi接入层&lt;br&gt;9.75.177.201&lt;br&gt;9.75.187.211" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="446" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="czo80sEgHHQKnNgIDB-t-20" value="Nimbus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="170" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="czo80sEgHHQKnNgIDB-t-21" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="czo80sEgHHQKnNgIDB-t-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="230" as="sourcePoint" />
+            <mxPoint x="901" y="198" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="czo80sEgHHQKnNgIDB-t-22" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.992;exitY=0.454;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="czo80sEgHHQKnNgIDB-t-14" target="czo80sEgHHQKnNgIDB-t-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="230" as="sourcePoint" />
+            <mxPoint x="1060" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

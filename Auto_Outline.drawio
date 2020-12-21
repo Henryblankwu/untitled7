@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T10:12:42.916Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="M6DxbRk3T1zFGXIOZRto" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T11:43:22.921Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="WwFtqh-_4xdN8LIPa1P_" version="13.10.2" type="github">
   <diagram id="o4ILtqaqwBwNtyN1XxlW" name="Page-1">
-    <mxGraphModel dx="1876" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1876" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -462,11 +462,41 @@
             <mxPoint x="90" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B9CavGTyqqggNYc5hjXW-204" value="否" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B9CavGTyqqggNYc5hjXW-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B9CavGTyqqggNYc5hjXW-204" target="B9CavGTyqqggNYc5hjXW-213">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9CavGTyqqggNYc5hjXW-204" value="是" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="855" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="B9CavGTyqqggNYc5hjXW-205" value="是" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B9CavGTyqqggNYc5hjXW-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B9CavGTyqqggNYc5hjXW-205" target="B9CavGTyqqggNYc5hjXW-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9CavGTyqqggNYc5hjXW-205" value="否" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="930" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B9CavGTyqqggNYc5hjXW-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B9CavGTyqqggNYc5hjXW-209">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B9CavGTyqqggNYc5hjXW-209" value="弹出无需下线/或下线完成提示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="935" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B9CavGTyqqggNYc5hjXW-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.657;entryY=1.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B9CavGTyqqggNYc5hjXW-212" target="B9CavGTyqqggNYc5hjXW-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9CavGTyqqggNYc5hjXW-212" value="执行对应自动下线函数&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%88%A4%E6%96%AD%E5%BD%93%E5%89%8D%E6%97%B6%E9%97%B4%EF%BC%8C%E9%9D%9E18%3A00-23%3A00%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%2290%22%20width%3D%2280%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="870" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B9CavGTyqqggNYc5hjXW-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="B9CavGTyqqggNYc5hjXW-213" target="B9CavGTyqqggNYc5hjXW-212">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B9CavGTyqqggNYc5hjXW-213" value="钉钉hook自动同步通知@业务运维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="852.5" width="80" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

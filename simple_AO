@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T12:06:16.591Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_pmVsenUXxEMsuTJq9iW" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T12:19:52.938Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ehQfDHKVpMNLdit3l5XB" version="13.10.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="740" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1567" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -103,8 +103,16 @@
         <mxCell id="KllkOmcqtGmZ8PSTi3ao-18" value="快手" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="520" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="KllkOmcqtGmZ8PSTi3ao-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KllkOmcqtGmZ8PSTi3ao-29" target="KllkOmcqtGmZ8PSTi3ao-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KllkOmcqtGmZ8PSTi3ao-29" value="临时0-7天" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="170" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KllkOmcqtGmZ8PSTi3ao-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KllkOmcqtGmZ8PSTi3ao-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KllkOmcqtGmZ8PSTi3ao-30" value="临时7天以上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="200" width="90" height="20" as="geometry" />
@@ -135,6 +143,9 @@
         </mxCell>
         <mxCell id="KllkOmcqtGmZ8PSTi3ao-43" value="执行自动下线业务，并且判断下线成功与否" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KllkOmcqtGmZ8PSTi3ao-49" value="判断是否需要自动上线" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-110" y="160" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

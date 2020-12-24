@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T09:50:54.206Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="PLHJyZWt9cGWLibR7kQQ" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T09:58:08.786Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="rPuW9u_MVzfjU1cEnMWL" version="13.10.2" type="github">
   <diagram id="7yTTKBNS-WqdplVX88Gn" name="Page-1">
-    <mxGraphModel dx="1250" dy="210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1444" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,11 +34,11 @@
         <mxCell id="nqSjDwLCecOqARadwJGj-7" value="用户发起选择" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-620" y="80" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nqSjDwLCecOqARadwJGj-9" value="1，上线时间&lt;br&gt;2，下线时间&lt;br&gt;3，原因" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="40" width="80" height="40" as="geometry" />
+        <mxCell id="nqSjDwLCecOqARadwJGj-9" value="1，上线时间&lt;br&gt;2，下线时间&lt;br&gt;3，原因（选择列表）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="40" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nqSjDwLCecOqARadwJGj-11" value="1，下线时间&lt;br&gt;2，原因" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="120" width="80" height="40" as="geometry" />
+        <mxCell id="nqSjDwLCecOqARadwJGj-11" value="1，下线时间&lt;br&gt;2，原因（选择列表）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="120" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-13" value="用户进行记录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-400" y="40" width="60" height="20" as="geometry" />
@@ -100,10 +100,10 @@
         <mxCell id="nqSjDwLCecOqARadwJGj-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="nqSjDwLCecOqARadwJGj-41" target="nqSjDwLCecOqARadwJGj-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nqSjDwLCecOqARadwJGj-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="nqSjDwLCecOqARadwJGj-41" target="nqSjDwLCecOqARadwJGj-60">
+        <mxCell id="nqSjDwLCecOqARadwJGj-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="nqSjDwLCecOqARadwJGj-41" target="nqSjDwLCecOqARadwJGj-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nqSjDwLCecOqARadwJGj-41" value="判断是否通知业务运维/或商务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nqSjDwLCecOqARadwJGj-41" value="判断是否通知业务运维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-715" y="460" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-45" value="第三步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -130,36 +130,57 @@
         <mxCell id="nqSjDwLCecOqARadwJGj-54" value="临时下线通知运维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="420" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nqSjDwLCecOqARadwJGj-55" value="永久下线通知商务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nqSjDwLCecOqARadwJGj-55" value="永久下线通知运维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="510" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="nqSjDwLCecOqARadwJGj-60" target="nqSjDwLCecOqARadwJGj-65">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-550" y="600" as="targetPoint" />
+            <mxPoint x="-550" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="nqSjDwLCecOqARadwJGj-60" target="nqSjDwLCecOqARadwJGj-66">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-550" y="690" as="targetPoint" />
+            <mxPoint x="-550" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-60" value="判断是否通知客户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-715" y="620" width="110" height="40" as="geometry" />
+          <mxGeometry x="-715" y="780" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nqSjDwLCecOqARadwJGj-61" value="第四步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="630" width="40" height="20" as="geometry" />
+        <mxCell id="nqSjDwLCecOqARadwJGj-61" value="第五步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="790" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="nqSjDwLCecOqARadwJGj-65" target="nqSjDwLCecOqARadwJGj-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-65" value="是" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="570" width="50" height="50" as="geometry" />
+          <mxGeometry x="-520" y="730" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-66" value="否" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="650" width="50" height="50" as="geometry" />
+          <mxGeometry x="-520" y="810" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-67" value="售后跟进群内通知客户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="575" width="110" height="40" as="geometry" />
+          <mxGeometry x="-440" y="735" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nqSjDwLCecOqARadwJGj-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="nqSjDwLCecOqARadwJGj-72" target="nqSjDwLCecOqARadwJGj-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nqSjDwLCecOqARadwJGj-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="nqSjDwLCecOqARadwJGj-72" target="nqSjDwLCecOqARadwJGj-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nqSjDwLCecOqARadwJGj-72" value="判断是否通知商务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-715" y="610" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nqSjDwLCecOqARadwJGj-73" value="第四步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="620" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nqSjDwLCecOqARadwJGj-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="nqSjDwLCecOqARadwJGj-75" target="nqSjDwLCecOqARadwJGj-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nqSjDwLCecOqARadwJGj-75" value="永久下线通知商务（可在sgp打标签或钉钉消息通知）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="610" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nqSjDwLCecOqARadwJGj-78" value="商务跟进挽回下线机器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="610" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

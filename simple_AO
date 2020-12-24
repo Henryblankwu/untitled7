@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T07:59:34.337Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="vp8CaGvGyfGEpjxcNCo9" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T08:00:22.017Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="kBqf51PB-J11PACm0mcK" version="13.10.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1567" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="判断机器下线时长" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="KllkOmcqtGmZ8PSTi3ao-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="KllkOmcqtGmZ8PSTi3ao-1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KllkOmcqtGmZ8PSTi3ao-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="KllkOmcqtGmZ8PSTi3ao-9">
           <mxGeometry relative="1" as="geometry" />
@@ -60,18 +57,6 @@
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="自动判断机器所属业务" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="KllkOmcqtGmZ8PSTi3ao-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KllkOmcqtGmZ8PSTi3ao-1" target="KllkOmcqtGmZ8PSTi3ao-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KllkOmcqtGmZ8PSTi3ao-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KllkOmcqtGmZ8PSTi3ao-1" target="KllkOmcqtGmZ8PSTi3ao-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KllkOmcqtGmZ8PSTi3ao-1" value="判断是否需要自动下业务" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="420" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="KllkOmcqtGmZ8PSTi3ao-6" value="结束流程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="730" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KllkOmcqtGmZ8PSTi3ao-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KllkOmcqtGmZ8PSTi3ao-9" target="KllkOmcqtGmZ8PSTi3ao-62">
           <mxGeometry relative="1" as="geometry" />
@@ -151,30 +136,6 @@
         </mxCell>
         <mxCell id="KllkOmcqtGmZ8PSTi3ao-31" value="永久下线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="230" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="KllkOmcqtGmZ8PSTi3ao-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KllkOmcqtGmZ8PSTi3ao-36" target="KllkOmcqtGmZ8PSTi3ao-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KllkOmcqtGmZ8PSTi3ao-36" value="是" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="550" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KllkOmcqtGmZ8PSTi3ao-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KllkOmcqtGmZ8PSTi3ao-37" target="KllkOmcqtGmZ8PSTi3ao-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KllkOmcqtGmZ8PSTi3ao-37" value="否" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="550" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KllkOmcqtGmZ8PSTi3ao-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KllkOmcqtGmZ8PSTi3ao-41" target="KllkOmcqtGmZ8PSTi3ao-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KllkOmcqtGmZ8PSTi3ao-41" value="判断是否需要发送钉钉告警通知" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KllkOmcqtGmZ8PSTi3ao-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KllkOmcqtGmZ8PSTi3ao-43" target="KllkOmcqtGmZ8PSTi3ao-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KllkOmcqtGmZ8PSTi3ao-43" value="执行自动下线业务，并且判断下线成功与否" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KllkOmcqtGmZ8PSTi3ao-49" value="判断是否需要自动上线" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-110" y="160" width="110" height="80" as="geometry" />

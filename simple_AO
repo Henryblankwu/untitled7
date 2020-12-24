@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T13:20:28.113Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="holtw8K6y7C6l6tJmSkt" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T07:47:51.470Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="aiLymOKELb4J_x1sh_bp" version="13.10.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1567" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1567" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -146,6 +146,12 @@
         </mxCell>
         <mxCell id="KllkOmcqtGmZ8PSTi3ao-49" value="判断是否需要自动上线" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-110" y="160" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KllkOmcqtGmZ8PSTi3ao-53" value="流程1-由用户app内发起下线申请，如判断为斗鱼裸机，阿里裸机，头条裸机，迅雷中继，迅雷dcdn，则无需执行任何操作。可以直接结束流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-75" y="-100" width="385" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KllkOmcqtGmZ8PSTi3ao-54" value="流程2-由用户app内发起下线申请，如判断为快手，斗鱼，爱奇艺，腾讯，阿里容器，芒果PCDN，XCDN，直播，点播插件/插件混跑。则需执行对应的操作。再结束流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-80" y="-50" width="385" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T09:58:08.786Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="rPuW9u_MVzfjU1cEnMWL" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T10:01:51.281Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qF1Q4aJSPSM5z5_ifUbp" version="13.10.2" type="github">
   <diagram id="7yTTKBNS-WqdplVX88Gn" name="Page-1">
     <mxGraphModel dx="1444" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,13 +61,13 @@
         <mxCell id="nqSjDwLCecOqARadwJGj-19" value="第二步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-760" y="290" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nqSjDwLCecOqARadwJGj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="nqSjDwLCecOqARadwJGj-20" target="nqSjDwLCecOqARadwJGj-34">
+        <mxCell id="nqSjDwLCecOqARadwJGj-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="nqSjDwLCecOqARadwJGj-20" target="nqSjDwLCecOqARadwJGj-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-20" value="临时下线的机器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nqSjDwLCecOqARadwJGj-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="nqSjDwLCecOqARadwJGj-21" target="nqSjDwLCecOqARadwJGj-50">
+        <mxCell id="nqSjDwLCecOqARadwJGj-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="nqSjDwLCecOqARadwJGj-21" target="nqSjDwLCecOqARadwJGj-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-21" value="永久下线的机器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -77,13 +77,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-22" value="需要提前下线（主要为点播，直连，xcdn）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="200" width="150" height="40" as="geometry" />
+          <mxGeometry x="-323" y="270" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-23" value="无需提前下线(主要为三方业务，快手，腾讯，爱奇艺等)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="260" width="150" height="40" as="geometry" />
+          <mxGeometry x="-323" y="330" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-29" value="执行下线逻辑（提前一小时下线。）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="250" width="110" height="40" as="geometry" />
+          <mxGeometry x="-110" y="270" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="nqSjDwLCecOqARadwJGj-34" target="nqSjDwLCecOqARadwJGj-22">
           <mxGeometry relative="1" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-34" value="判断是否需要提前下线" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="210" width="60" height="60" as="geometry" />
+          <mxGeometry x="-413" y="280" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="nqSjDwLCecOqARadwJGj-41" target="nqSjDwLCecOqARadwJGj-54">
           <mxGeometry relative="1" as="geometry" />
@@ -108,24 +108,6 @@
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-45" value="第三步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-760" y="470" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="nqSjDwLCecOqARadwJGj-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="nqSjDwLCecOqARadwJGj-46" target="nqSjDwLCecOqARadwJGj-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nqSjDwLCecOqARadwJGj-46" value="需要提前下线（主要为点播，直连，xcdn）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="320" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nqSjDwLCecOqARadwJGj-47" value="无需提前下线(主要为三方业务，快手，腾讯，爱奇艺等)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="380" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nqSjDwLCecOqARadwJGj-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="nqSjDwLCecOqARadwJGj-50" target="nqSjDwLCecOqARadwJGj-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nqSjDwLCecOqARadwJGj-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="nqSjDwLCecOqARadwJGj-50" target="nqSjDwLCecOqARadwJGj-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nqSjDwLCecOqARadwJGj-50" value="判断是否需要提前下线" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="330" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nqSjDwLCecOqARadwJGj-54" value="临时下线通知运维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="420" width="110" height="40" as="geometry" />

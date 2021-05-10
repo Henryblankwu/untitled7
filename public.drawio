@@ -1,127 +1,127 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T11:58:26.260Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="vcqI_mdU6sXANdP6IwUz" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-10T12:10:45.719Z" agent="5.0 (Linux; U; Android 10; zh-cn; M2004J7AC Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.147 Mobile Safari/537.36 XiaoMi/MiuiBrowser/14.5.8" etag="bERsHd8FIHs5XwUgiu0a" version="14.6.11" type="github">
   <diagram id="IskvgZTEknMmayzxG2AQ" name="Page-1">
-    <mxGraphModel dx="1147" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="359" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-1" value="论运用计算机实现自动化办公对社会人才需求的影响" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="470" width="55" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-3" value="Title" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-3" value="Title" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="135" y="225" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="350" width="140" height="45" as="geometry" />
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-9" value="1、社会生产力结构产生变化。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="350" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="330" width="140" height="45" as="geometry" />
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-14" value="1.1，随着大学和基础教育的普及，社会中的专业技术人才占比越来越多。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="330" width="186" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="385" width="140" height="45" as="geometry" />
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-15" value="1.2，随着国家的高速发展，整个社会体系的工业化以及自动化程度越来越高。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="385" width="186" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-16" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng9sC7QbUENpqP5kl2ks-9" target="ng9sC7QbUENpqP5kl2ks-14">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-16" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ng9sC7QbUENpqP5kl2ks-9" target="ng9sC7QbUENpqP5kl2ks-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="260" as="sourcePoint" />
             <mxPoint x="400" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-18" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ng9sC7QbUENpqP5kl2ks-9" target="ng9sC7QbUENpqP5kl2ks-15">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-18" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ng9sC7QbUENpqP5kl2ks-9" target="ng9sC7QbUENpqP5kl2ks-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="330" as="sourcePoint" />
             <mxPoint x="400" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-19" value="2，企业用人需求产生变化。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="495" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-20" value="2.1，企业办公逐渐实现自动化，以及智能化。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="440" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-21" value="2.2，被自动化和智能化取代的工种逐渐由计算机取代人工。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="495" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-22" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng9sC7QbUENpqP5kl2ks-19" target="ng9sC7QbUENpqP5kl2ks-20">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-22" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ng9sC7QbUENpqP5kl2ks-19" target="ng9sC7QbUENpqP5kl2ks-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="370" as="sourcePoint" />
             <mxPoint x="400" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-23" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ng9sC7QbUENpqP5kl2ks-19" target="ng9sC7QbUENpqP5kl2ks-21">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-23" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ng9sC7QbUENpqP5kl2ks-19" target="ng9sC7QbUENpqP5kl2ks-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="440" as="sourcePoint" />
             <mxPoint x="400" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-24" value="3，社会人才结构发生变化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="630" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="610" width="140" height="45" as="geometry" />
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-25" value="3.1，学校为了适应人才需求的变化，开设新型计算机专业，如运维开发，如人工智能。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="610" width="226" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="665" width="140" height="45" as="geometry" />
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-26" value="3.2，基础教育发生变化，如中小学开始将编程纳入教案，诞生专注于少儿编程等类似企业以及人才。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="665" width="226" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-27" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng9sC7QbUENpqP5kl2ks-24" target="ng9sC7QbUENpqP5kl2ks-25">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-27" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ng9sC7QbUENpqP5kl2ks-24" target="ng9sC7QbUENpqP5kl2ks-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="540" as="sourcePoint" />
             <mxPoint x="400" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-28" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ng9sC7QbUENpqP5kl2ks-24" target="ng9sC7QbUENpqP5kl2ks-26">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-28" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ng9sC7QbUENpqP5kl2ks-24" target="ng9sC7QbUENpqP5kl2ks-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="610" as="sourcePoint" />
             <mxPoint x="400" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-29" value="4，如何适应变化。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="745" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="725" width="140" height="45" as="geometry" />
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-30" value="1，企业应该怎么做。坚持古典传统企业生产还是结合信息化时代做融合进而体效增收。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="725" width="226" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="780" width="140" height="45" as="geometry" />
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-31" value="2，国家应该怎么做。为信息化时代的建设更改教育方针，输出具有强专业性人才以及专业管理型人才等。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="780" width="226" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-32" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng9sC7QbUENpqP5kl2ks-29" target="ng9sC7QbUENpqP5kl2ks-30">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-32" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ng9sC7QbUENpqP5kl2ks-29" target="ng9sC7QbUENpqP5kl2ks-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="655" as="sourcePoint" />
             <mxPoint x="400" y="605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-33" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ng9sC7QbUENpqP5kl2ks-29" target="ng9sC7QbUENpqP5kl2ks-31">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-33" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ng9sC7QbUENpqP5kl2ks-29" target="ng9sC7QbUENpqP5kl2ks-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="725" as="sourcePoint" />
             <mxPoint x="400" y="605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="550" width="140" height="45" as="geometry" />
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-34" value="2.3，企业对研发和提效和管理等的专业人才需求越来越高" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="550" width="226" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-35" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng9sC7QbUENpqP5kl2ks-19" target="ng9sC7QbUENpqP5kl2ks-34">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-35" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ng9sC7QbUENpqP5kl2ks-19" target="ng9sC7QbUENpqP5kl2ks-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="570" as="sourcePoint" />
             <mxPoint x="400" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-36" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng9sC7QbUENpqP5kl2ks-1" target="ng9sC7QbUENpqP5kl2ks-9">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-36" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ng9sC7QbUENpqP5kl2ks-1" target="ng9sC7QbUENpqP5kl2ks-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="620" as="sourcePoint" />
             <mxPoint x="430" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-37" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng9sC7QbUENpqP5kl2ks-1" target="ng9sC7QbUENpqP5kl2ks-19">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-37" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ng9sC7QbUENpqP5kl2ks-1" target="ng9sC7QbUENpqP5kl2ks-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="155" y="600" as="sourcePoint" />
             <mxPoint x="200" y="382.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-38" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng9sC7QbUENpqP5kl2ks-1" target="ng9sC7QbUENpqP5kl2ks-24">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-38" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ng9sC7QbUENpqP5kl2ks-1" target="ng9sC7QbUENpqP5kl2ks-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="155" y="600" as="sourcePoint" />
             <mxPoint x="200" y="527.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ng9sC7QbUENpqP5kl2ks-39" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng9sC7QbUENpqP5kl2ks-1" target="ng9sC7QbUENpqP5kl2ks-29">
+        <mxCell id="ng9sC7QbUENpqP5kl2ks-39" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ng9sC7QbUENpqP5kl2ks-1" target="ng9sC7QbUENpqP5kl2ks-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="155" y="600" as="sourcePoint" />
             <mxPoint x="200" y="662.5" as="targetPoint" />

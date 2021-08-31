@@ -1,1 +1,141 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T06:18:00.279Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" version="14.9.7" etag="77kYybfI3tN4aF7kGJQr" type="github"><diagram id="_0AQ754gxz1kLGNI0LbY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-31T06:27:26.442Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="H4rSR3tboB_RHpmJRl9t" version="14.9.7" type="github">
+  <diagram id="_0AQ754gxz1kLGNI0LbY" name="Page-1">
+    <mxGraphModel dx="1337" dy="1881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KAOmSRGufXm229gie4pT-1" value="API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-2" value="MYSQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KAOmSRGufXm229gie4pT-1" target="KAOmSRGufXm229gie4pT-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="280" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="190" />
+              <mxPoint x="280" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-4" value="接口方式每日入库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="340" as="sourcePoint" />
+            <mxPoint x="380" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="340" />
+              <mxPoint x="110" y="80" />
+              <mxPoint x="380" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-6" value="集团机器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="60" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-8" value="Master" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-9" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KAOmSRGufXm229gie4pT-8" target="KAOmSRGufXm229gie4pT-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="544" y="190" />
+              <mxPoint x="280" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-10" value="Agent程序上报到master节点入库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="444" y="170" width="206" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-11" value="Agent&lt;br&gt;node1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-40" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-12" value="&lt;span&gt;Agent&lt;br&gt;node2&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-40" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-13" value="&lt;span&gt;Agent&lt;br&gt;node(n)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-40" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="-10" as="sourcePoint" />
+            <mxPoint x="610" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-15" value="" style="endArrow=classic;html=1;entryX=0.467;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KAOmSRGufXm229gie4pT-11" target="KAOmSRGufXm229gie4pT-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="170" as="sourcePoint" />
+            <mxPoint x="510" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-16" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KAOmSRGufXm229gie4pT-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="455" y="30" as="sourcePoint" />
+            <mxPoint x="540" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-17" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KAOmSRGufXm229gie4pT-13" target="KAOmSRGufXm229gie4pT-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="535" y="30" as="sourcePoint" />
+            <mxPoint x="550" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-18" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="400" as="sourcePoint" />
+            <mxPoint x="730" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="400" />
+              <mxPoint x="390" y="-60" />
+              <mxPoint x="730" y="-60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-19" value="SDK机器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-80" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-20" value="WEB-API层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="490" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-22" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KAOmSRGufXm229gie4pT-20" target="KAOmSRGufXm229gie4pT-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="370" as="sourcePoint" />
+            <mxPoint x="500" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="520" />
+              <mxPoint x="140" y="350" />
+              <mxPoint x="280" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-24" value="读写操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="430" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-25" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KAOmSRGufXm229gie4pT-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="350" as="sourcePoint" />
+            <mxPoint x="545" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-26" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.583;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KAOmSRGufXm229gie4pT-24" target="KAOmSRGufXm229gie4pT-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="500" as="sourcePoint" />
+            <mxPoint x="560" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-27" value="Ansible" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-28" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="410" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

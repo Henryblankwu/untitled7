@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T06:27:26.442Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="H4rSR3tboB_RHpmJRl9t" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-06T06:38:38.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="i_48psLOorqC2LylGAlr" version="14.9.7" type="github">
   <diagram id="_0AQ754gxz1kLGNI0LbY" name="Page-1">
-    <mxGraphModel dx="1337" dy="1881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1294" dy="1924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,6 +134,36 @@
         </mxCell>
         <mxCell id="KAOmSRGufXm229gie4pT-28" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="410" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-29" value="创建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-30" value="销毁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-31" value="初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-32" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.128;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KAOmSRGufXm229gie4pT-20" target="KAOmSRGufXm229gie4pT-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="420" as="sourcePoint" />
+            <mxPoint x="680" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-33" value="" style="endArrow=classic;html=1;exitX=0.415;exitY=0.979;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KAOmSRGufXm229gie4pT-20" target="KAOmSRGufXm229gie4pT-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="268.8800000000001" y="561.7399999999998" as="sourcePoint" />
+            <mxPoint x="270" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-34" value="调整" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KAOmSRGufXm229gie4pT-35" value="" style="endArrow=classic;html=1;exitX=0.415;exitY=0.979;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="KAOmSRGufXm229gie4pT-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530.9000000000001" y="548.7399999999998" as="sourcePoint" />
+            <mxPoint x="410" y="600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T08:37:36.865Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="EwWJTpb8-L3edWPo7xDe" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T08:39:07.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="ifTKrUg5OR9V6_H-KtcS" version="15.6.8" type="github">
   <diagram id="ewAgk28_D8-xKCc3fxLr" name="Page-1">
     <mxGraphModel dx="1245" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,6 +147,9 @@
             <mxPoint x="530" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_a8eyUMC2ZlrNDKBccpk-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="_a8eyUMC2ZlrNDKBccpk-3" target="_a8eyUMC2ZlrNDKBccpk-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_a8eyUMC2ZlrNDKBccpk-3" value="Harbor镜仓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="440" width="80" height="40" as="geometry" />
         </mxCell>
@@ -183,6 +186,9 @@
           <mxGeometry x="870" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_a8eyUMC2ZlrNDKBccpk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_a8eyUMC2ZlrNDKBccpk-16" target="_a8eyUMC2ZlrNDKBccpk-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_a8eyUMC2ZlrNDKBccpk-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="_a8eyUMC2ZlrNDKBccpk-16" target="_a8eyUMC2ZlrNDKBccpk-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_a8eyUMC2ZlrNDKBccpk-16" value="war包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -303,6 +309,9 @@
               <mxPoint x="700" y="580" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_a8eyUMC2ZlrNDKBccpk-51" value="版本管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="500" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

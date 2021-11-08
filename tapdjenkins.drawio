@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T04:06:11.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="JzKIj-xVk8yiR7ZIaCE7" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T04:11:20.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="IzjphR7OwnKLaKbLPliq" version="15.7.0" type="github">
   <diagram id="ewAgk28_D8-xKCc3fxLr" name="Page-1">
     <mxGraphModel dx="1151" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,6 +140,44 @@
               <mxPoint x="420" y="630" />
               <mxPoint x="670" y="630" />
               <mxPoint x="670" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5S8CrPWEdhfOQKya8A3b-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5S8CrPWEdhfOQKya8A3b-44" target="5S8CrPWEdhfOQKya8A3b-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5S8CrPWEdhfOQKya8A3b-44" value="ELK日志监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="430" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5S8CrPWEdhfOQKya8A3b-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5S8CrPWEdhfOQKya8A3b-45" target="5S8CrPWEdhfOQKya8A3b-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5S8CrPWEdhfOQKya8A3b-45" value="prometheus基础数据监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="575" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5S8CrPWEdhfOQKya8A3b-46" value="granfna看板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="575" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5S8CrPWEdhfOQKya8A3b-47" value="kibana看板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="430" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5S8CrPWEdhfOQKya8A3b-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5S8CrPWEdhfOQKya8A3b-51" target="5S8CrPWEdhfOQKya8A3b-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5S8CrPWEdhfOQKya8A3b-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5S8CrPWEdhfOQKya8A3b-51" target="5S8CrPWEdhfOQKya8A3b-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5S8CrPWEdhfOQKya8A3b-51" value="CMDB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="500" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5S8CrPWEdhfOQKya8A3b-54" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="410" as="sourcePoint" />
+            <mxPoint x="710" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="630" />
+              <mxPoint x="960" y="630" />
+              <mxPoint x="960" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>

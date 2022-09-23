@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T03:19:06.411Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="1aRxdubqifZVx5DygCIo" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-23T03:19:47.093Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="YQlSYKne_Yt8T6XGBP2V" version="20.3.3" type="github">
   <diagram id="awbKIZQKXA_6XqNhvoPY" name="第 1 页">
-    <mxGraphModel dx="930" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="930" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,9 +75,6 @@
         </mxCell>
         <mxCell id="vbVHcU2QwuVIv3XMYrbV-13" value="第一次请求获取Cookie,拿到IP，根据权重选择后段服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="70" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vbVHcU2QwuVIv3XMYrbV-14" value="解析IP,就近分配" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="560" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vbVHcU2QwuVIv3XMYrbV-18" value="第二次请求，Cookie保持会话，根据地域就近选择后端服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="130" width="200" height="30" as="geometry" />
